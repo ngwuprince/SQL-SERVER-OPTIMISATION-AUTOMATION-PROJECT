@@ -11,4 +11,4 @@ In this project, I worked with three datasets that are available on the City of 
 - Chicago public schools
 - Chicago crime data
 
-I created a table for each one, and load the appropriate dataset through the Db2 console. If you have already completed the Hands on Lab: Joins, you can reuse the tables you created for that hands-on lab.
+I created a table for each one, and load the appropriate dataset through the Db2 console.
